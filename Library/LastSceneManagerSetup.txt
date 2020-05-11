@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Chat.unity
+  isLoaded: 1
+  isActive: 1
