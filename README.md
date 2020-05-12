@@ -10,6 +10,9 @@
   * server會偵測有誰連接
   * 可以藉由send來送出客戶端訊息
   * server會廣播訊息給所有clients
+  
+**DEMO**<br>
+https://www.youtube.com/watch?v=RrfBGagRep0
 
 **相關連結**<br>
 Android的client請參考(https://github.com/Gougon-Side-Project/Android-DodoCagePhonograph)
